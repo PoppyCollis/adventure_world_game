@@ -1,0 +1,209 @@
+2022-01-04 13:42:59,343 | INFO | NEW GAME: User started app
+2022-01-04 13:43:05,402 | INFO | User attempted to exit east but current room does not have this exit
+2022-01-04 13:43:07,620 | INFO | User entered a new room: gatehouse.
+2022-01-04 13:43:08,453 | INFO | User spoke to a character (Sentry).
+2022-01-04 13:43:10,328 | INFO | User chose to continue interaction with character (Sentry).
+2022-01-04 13:43:13,637 | INFO | User attempted to enter a locked room: courtyard.
+2022-01-04 13:43:16,651 | INFO | User entered a new room: castle_grounds.
+2022-01-04 13:43:19,788 | INFO | User entered a new room: chapel.
+2022-01-04 13:43:20,792 | INFO | User picked up an item (bible)
+2022-01-04 13:43:21,675 | INFO | User spoke to a character (Priest).
+2022-01-04 13:43:25,331 | INFO | User chose to continue interaction with character (Priest).
+2022-01-04 13:43:26,772 | INFO | User picked up an item (torch)
+2022-01-04 13:43:29,127 | INFO | User entered a new room: cellar.
+2022-01-04 13:43:30,374 | INFO | User picked up a wrong item (rope) and was sent back to the start
+2022-01-04 13:43:33,671 | INFO | User entered a new room: chapel.
+2022-01-04 13:43:35,008 | INFO | User entered a new room: cellar.
+2022-01-04 13:43:36,931 | INFO | User entered a new room: armoury.
+2022-01-04 13:43:38,500 | INFO | User spoke to a character (Soldier).
+2022-01-04 13:43:40,179 | INFO | User chose to continue interaction with character (Soldier).
+2022-01-04 13:43:41,612 | INFO | User spoke to a character (Soldier).
+2022-01-04 13:43:42,897 | INFO | User chose to continue interaction with character (Soldier).
+2022-01-04 13:43:46,327 | INFO | User entered a new room: kitchens.
+2022-01-04 13:43:48,395 | INFO | User picked up an item (platter)
+2022-01-04 13:43:51,827 | INFO | User entered a new room: banquet_hall.
+2022-01-04 13:43:53,137 | INFO | User spoke to a character (Musician).
+2022-01-04 13:43:54,861 | INFO | User chose to continue interaction with character (Musician).
+2022-01-04 13:43:58,112 | INFO | User spoke to a character (Princess).
+2022-01-04 13:44:00,686 | INFO | User spoke to a character (Princess).
+2022-01-04 13:44:02,779 | INFO | User spoke to a character (Jester).
+2022-01-04 13:44:05,213 | INFO | User chose to continue interaction with character (Jester).
+2022-01-04 13:44:11,295 | INFO | User spoke to a character (Jester).
+2022-01-04 13:44:12,872 | INFO | User chose to continue interaction with character (Jester).
+2022-01-04 13:44:18,719 | INFO | User spoke to a character (Jester).
+2022-01-04 13:44:20,507 | INFO | User chose to continue interaction with character (Jester).
+2022-01-04 13:44:30,512 | INFO | User entered a new room: cabinet.
+2022-01-04 13:44:31,761 | INFO | User spoke to a character (Chancellor).
+2022-01-04 13:44:36,611 | INFO | User entered a new room: corridor.
+2022-01-04 13:44:37,433 | INFO | User spoke to a character (Doorward).
+2022-01-04 13:44:38,971 | INFO | User chose to continue interaction with character (Doorward).
+2022-01-04 13:44:42,344 | INFO | User entered a new room: solar.
+2022-01-04 13:44:43,140 | INFO | User spoke to a character (Countess).
+2022-01-04 13:44:45,775 | INFO | User chose to continue interaction with character (Countess).
+2022-01-04 13:44:50,980 | INFO | User picked up an item (dress)
+2022-01-04 13:44:53,579 | INFO | User entered a new room: corridor.
+2022-01-04 13:44:56,065 | INFO | User entered a new room: bedchamber.
+2022-01-04 13:44:56,086 | INFO | User completed game.
+
+2022-01-04 13:45:11,461 | INFO | NEW GAME: User started app
+2022-01-04 13:45:14,713 | INFO | User entered a new room: chapel.
+2022-01-04 13:45:15,681 | INFO | User picked up an item (bible)
+2022-01-04 13:45:17,837 | INFO | User attempted to enter a locked room: cellar.
+2022-01-04 13:45:19,662 | INFO | User quit game early.
+
+2022-01-04 13:45:32,060 | INFO | NEW GAME: User started app
+2022-01-04 13:45:42,269 | INFO | User quit game early.
+
+2022-01-04 13:45:48,035 | INFO | User entered a new room: gatehouse.
+2022-01-04 13:45:48,036 | INFO | User spoke to a character (Sentry).
+2022-01-04 13:45:48,036 | INFO | User chose to continue interaction with character (Sentry).
+2022-01-04 13:45:48,036 | INFO | User attempted to enter a locked room: courtyard.
+2022-01-04 13:45:48,036 | INFO | User entered a new room: castle_grounds.
+2022-01-04 13:45:48,036 | INFO | User entered a new room: chapel.
+2022-01-04 13:45:48,036 | INFO | User spoke to a character (Priest).
+2022-01-04 13:45:48,037 | INFO | User chose to continue interaction with character (Priest).
+2022-01-04 13:45:48,037 | INFO | User picked up an item (torch)
+2022-01-04 13:45:48,037 | INFO | User entered a new room: cellar.
+2022-01-04 13:45:48,037 | INFO | User picked up a wrong item (rope) and was sent back to the start
+2022-01-04 13:45:48,037 | INFO | User entered a new room: chapel.
+2022-01-04 13:45:48,037 | INFO | User entered a new room: cellar.
+2022-01-04 13:45:48,037 | INFO | User entered a new room: armoury.
+2022-01-04 13:45:48,037 | INFO | User spoke to a character (Soldier).
+2022-01-04 13:45:48,037 | INFO | User chose to continue interaction with character (Soldier).
+2022-01-04 13:45:48,037 | INFO | User entered a new room: kitchens.
+2022-01-04 13:45:48,037 | INFO | User picked up a wrong item (goblet) and was sent back to the start
+2022-01-04 13:45:48,037 | INFO | User entered a new room: chapel.
+2022-01-04 13:45:48,038 | INFO | User entered a new room: cellar.
+2022-01-04 13:45:48,038 | INFO | User entered a new room: armoury.
+2022-01-04 13:45:48,038 | INFO | User entered a new room: kitchens.
+2022-01-04 13:45:48,038 | INFO | User attempted to enter a locked room: banquet_hall.
+2022-01-04 13:45:48,038 | INFO | User picked up an item (platter)
+2022-01-04 13:45:48,038 | INFO | User entered a new room: banquet_hall.
+2022-01-04 13:45:48,038 | INFO | User entered a new room: cabinet.
+2022-01-04 13:45:48,038 | INFO | User entered a new room: corridor.
+2022-01-04 13:45:48,038 | INFO | User entered a new room: solar.
+2022-01-04 13:45:48,038 | INFO | User spoke to a character (Countess).
+2022-01-04 13:45:48,038 | INFO | User chose to continue interaction with character (Countess).
+2022-01-04 13:45:48,038 | INFO | User picked up an item (dress)
+2022-01-04 13:45:48,039 | INFO | User entered a new room: corridor.
+2022-01-04 13:45:48,039 | INFO | User spoke to a character (Doorward).
+2022-01-04 13:45:48,039 | INFO | User chose to continue interaction with character (Doorward).
+2022-01-04 13:45:48,039 | INFO | User entered a new room: bedchamber.
+2022-01-04 13:46:07,858 | INFO | NEW GAME: User started app
+2022-01-04 13:50:21,655 | INFO | NEW GAME: User started app
+2022-01-04 13:50:27,026 | INFO | User entered a new room: gatehouse.
+2022-01-04 13:50:29,930 | INFO | User entered a new room: castle_grounds.
+2022-01-04 13:50:33,559 | INFO | User entered a new room: chapel.
+2022-01-04 13:50:37,163 | INFO | User quit game early.
+
+2022-05-21 17:01:33,079 | INFO | NEW GAME: User started app
+2022-05-21 17:01:55,845 | INFO | User entered a new room: gatehouse.
+2022-05-21 17:01:58,467 | INFO | User spoke to a character (Sentry).
+2022-05-21 17:02:06,575 | INFO | User chose to continue interaction with character (Sentry).
+2022-05-21 17:02:10,215 | INFO | User spoke to a character (Sentry).
+2022-05-21 17:02:14,713 | INFO | User spoke to a character (Sentry).
+2022-05-21 17:02:18,868 | INFO | User attempted to enter a locked room: courtyard.
+2022-05-21 17:02:25,688 | INFO | User entered a new room: castle_grounds.
+2022-05-21 17:02:30,827 | INFO | User entered a new room: chapel.
+2022-05-21 17:02:33,408 | INFO | User picked up an item (candle)
+2022-05-21 17:02:35,548 | INFO | User picked up an item (bible)
+2022-05-21 17:02:36,543 | INFO | User spoke to a character (Priest).
+2022-05-21 17:02:42,121 | INFO | User chose to continue interaction with character (Priest).
+2022-05-21 17:02:47,965 | INFO | User picked up an item (torch)
+2022-05-21 17:02:59,384 | INFO | User spoke to a character (Priest).
+2022-05-21 17:03:03,576 | INFO | User entered a new room: cellar.
+2022-05-21 17:03:05,248 | INFO | User picked up a wrong item (rope) and was sent back to the start
+2022-05-21 17:03:11,322 | INFO | User entered a new room: chapel.
+2022-05-21 17:03:13,712 | INFO | User entered a new room: cellar.
+2022-05-21 17:03:16,500 | INFO | User entered a new room: armoury.
+2022-05-21 17:03:17,668 | INFO | User spoke to a character (Soldier).
+2022-05-21 17:03:35,717 | INFO | User chose to continue interaction with character (Soldier).
+2022-05-21 17:03:41,646 | INFO | User spoke to a character (Soldier).
+2022-05-21 17:03:44,610 | INFO | User chose to continue interaction with character (Soldier).
+2022-05-21 17:03:48,581 | INFO | User entered a new room: kitchens.
+2022-05-21 17:03:51,411 | INFO | User picked up an item (platter)
+2022-05-21 17:03:57,325 | INFO | User entered a new room: banquet_hall.
+2022-05-21 17:03:59,700 | INFO | User spoke to a character (Musician).
+2022-05-21 17:04:02,858 | INFO | User chose to continue interaction with character (Musician).
+2022-05-21 17:04:07,547 | INFO | User spoke to a character (Nobleman).
+2022-05-21 17:04:10,978 | INFO | User spoke to a character (Jester).
+2022-05-21 17:04:13,508 | INFO | User chose to continue interaction with character (Jester).
+2022-05-21 17:04:28,714 | INFO | User spoke to a character (Page).
+2022-05-21 17:04:32,156 | INFO | User spoke to a character (Princess).
+2022-05-21 17:04:38,614 | INFO | User entered a new room: cabinet.
+2022-05-21 17:04:40,078 | INFO | User spoke to a character (Chancellor).
+2022-05-21 17:04:44,382 | INFO | User spoke to a character (Chancellor).
+2022-05-21 17:04:49,277 | INFO | User entered a new room: corridor.
+2022-05-21 17:04:52,683 | INFO | User spoke to a character (Doorward).
+2022-05-21 17:04:57,512 | INFO | User chose to continue interaction with character (Doorward).
+2022-05-21 17:05:02,362 | INFO | User spoke to a character (Doorward).
+2022-05-21 17:05:04,759 | INFO | User chose to continue interaction with character (Doorward).
+2022-05-21 17:05:09,804 | INFO | User entered a new room: cabinet.
+2022-05-21 17:05:14,341 | INFO | User entered a new room: corridor.
+2022-05-21 17:05:17,219 | INFO | User entered a new room: solar.
+2022-05-21 17:05:18,363 | INFO | User spoke to a character (Countess).
+2022-05-21 17:05:28,955 | INFO | User chose to continue interaction with character (Countess).
+2022-05-21 17:05:36,518 | INFO | User picked up an item (dress)
+2022-05-21 17:05:41,428 | INFO | User entered a new room: corridor.
+2022-05-21 17:05:42,496 | INFO | User spoke to a character (Doorward).
+2022-05-21 17:05:45,821 | INFO | User chose to continue interaction with character (Doorward).
+2022-05-21 17:05:50,900 | INFO | User entered a new room: bedchamber.
+2022-05-21 17:05:50,926 | INFO | User completed game.
+
+2023-01-11 18:28:41,633 | INFO | NEW GAME: User started app
+2023-01-11 18:28:49,766 | INFO | NEW GAME: User started app
+2023-01-11 18:30:13,359 | INFO | User attempted to exit south but current room does not have this exit
+2023-01-11 18:30:19,863 | INFO | User entered a new room: gatehouse.
+2023-01-11 18:30:25,918 | INFO | User spoke to a character (Sentry).
+2023-01-11 18:30:37,509 | INFO | User chose to continue interaction with character (Sentry).
+2023-01-11 18:30:52,101 | INFO | User attempted to enter a locked room: courtyard.
+2023-01-11 18:30:57,959 | INFO | User spoke to a character (Sentry).
+2023-01-11 18:31:04,611 | INFO | User entered a new room: castle_grounds.
+2023-01-11 18:31:08,591 | INFO | User entered a new room: chapel.
+2023-01-11 18:31:17,806 | INFO | User spoke to a character (Priest).
+2023-01-11 18:31:25,996 | INFO | User chose to continue interaction with character (Priest).
+2023-01-11 18:31:35,868 | INFO | User picked up an item (torch)
+2023-01-11 18:31:54,726 | INFO | User picked up an item (bible)
+2023-01-11 18:31:58,513 | INFO | User picked up an item (candle)
+2023-01-11 18:32:01,907 | INFO | User spoke to a character (Priest).
+2023-01-11 18:32:22,814 | INFO | User entered a new room: cellar.
+2023-01-11 18:32:26,723 | INFO | User picked up a wrong item (rope) and was sent back to the start
+2023-01-11 18:32:36,526 | INFO | User entered a new room: chapel.
+2023-01-11 18:32:41,097 | INFO | User entered a new room: castle_grounds.
+2023-01-11 18:32:46,235 | INFO | User attempted to exit east but current room does not have this exit
+2023-01-11 18:32:54,467 | INFO | User entered a new room: chapel.
+2023-01-11 18:32:57,887 | INFO | User entered a new room: cellar.
+2023-01-11 18:33:05,586 | INFO | User entered a new room: armoury.
+2023-01-11 18:33:08,895 | INFO | User spoke to a character (Soldier).
+2023-01-11 18:33:21,668 | INFO | User chose to continue interaction with character (Soldier).
+2023-01-11 18:33:39,139 | INFO | User entered a new room: kitchens.
+2023-01-11 18:34:20,042 | INFO | User attempted to enter a locked room: banquet_hall.
+2023-01-11 18:34:30,266 | INFO | User picked up an item (platter)
+2023-01-11 18:34:37,123 | INFO | User entered a new room: banquet_hall.
+2023-01-11 18:34:44,642 | INFO | User spoke to a character (Nobleman).
+2023-01-11 18:34:52,874 | INFO | User spoke to a character (Musician).
+2023-01-11 18:34:59,755 | INFO | User chose to continue interaction with character (Musician).
+2023-01-11 18:35:14,290 | INFO | User spoke to a character (Princess).
+2023-01-11 18:35:23,540 | INFO | User spoke to a character (Jester).
+2023-01-11 18:35:34,167 | INFO | User chose to continue interaction with character (Jester).
+2023-01-11 18:37:02,674 | INFO | User spoke to a character (Jester).
+2023-01-11 18:37:05,512 | INFO | User chose to continue interaction with character (Jester).
+2023-01-11 18:37:31,923 | INFO | User entered a new room: cabinet.
+2023-01-11 18:37:35,827 | INFO | User spoke to a character (Chancellor).
+2023-01-11 18:37:57,687 | INFO | User entered a new room: banquet_hall.
+2023-01-11 18:38:04,192 | INFO | User entered a new room: cabinet.
+2023-01-11 18:38:07,507 | INFO | User entered a new room: corridor.
+2023-01-11 18:38:12,062 | INFO | User spoke to a character (Doorward).
+2023-01-11 18:38:24,576 | INFO | User chose to continue interaction with character (Doorward).
+2023-01-11 18:38:49,629 | INFO | User entered a new room: cabinet.
+2023-01-11 18:38:54,038 | INFO | User entered a new room: corridor.
+2023-01-11 18:38:56,875 | INFO | User entered a new room: solar.
+2023-01-11 18:38:58,864 | INFO | User spoke to a character (Countess).
+2023-01-11 18:39:12,758 | INFO | User chose to continue interaction with character (Countess).
+2023-01-11 18:39:22,333 | INFO | User picked up an item (dress)
+2023-01-11 18:39:26,736 | INFO | User entered a new room: corridor.
+2023-01-11 18:39:28,147 | INFO | User spoke to a character (Doorward).
+2023-01-11 18:39:31,345 | INFO | User chose to continue interaction with character (Doorward).
+2023-01-11 18:39:43,814 | INFO | User entered a new room: bedchamber.
+2023-01-11 18:39:43,841 | INFO | User completed game.
+
