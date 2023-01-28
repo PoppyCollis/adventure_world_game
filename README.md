@@ -5,6 +5,9 @@ To play, run <strong>GUI.py</strong>
 
 ![class_diagram](https://user-images.githubusercontent.com/44060045/215266879-5c8919da-61e7-49b8-8bcb-24bdc4a175a4.png)
 
+See <strong>Unit_test_GUI.py</strong> and <strong>Unit_tests.py</strong> for automated unit testing.
+See <strong>logs.log</strong> - the game imports a logging module in order to write to a log file documenting the users inputs throughout a game.
+
 In this game, you play the character of a blacksmith who suspects the king of stealing something important of yours on his recent trip
 to your forge. The objective of the game is to break into the castle and find the king in order to confront him and take back what is rightfully yours.
 The game begins in the castle grounds. You are able to move to different locations (rooms) in the game by typing an input into the command prompt before pressing 'GO'.
