@@ -1,4 +1,4 @@
-# adventure_world_game
+# CastleStorm
 Adventure game written in Python in order to practice good <strong>OOP principles</strong> as well as <strong>debugging</strong>, <strong>unit testing</strong> and implementing a customised <strong>graphical user interface</strong> using Tkinter.
 
 To play, run <strong>GUI.py</strong>
